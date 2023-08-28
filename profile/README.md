@@ -1,6 +1,6 @@
 ## Blazed Space Research & Development
-![Blazed Space]("Dreams into Reality" https://blazed.sirv.com/blazed-labs/blazed-banner-sm.png)
-
+![Blazed Space]("Dreams into Reality" )
+![Blazed Labs](https://blazed.sirv.com/blazed-labs/blazed-banner-sm.png "Blazed Labs")
 <!--
 
 **Here are some ideas to get you started:**
