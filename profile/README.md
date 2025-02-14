@@ -14,4 +14,4 @@
 
 [Customer Feedback](https://forms.gle/f9F4SRyfpKdAHJ1R6) | [Invest in Blazed](https://opencollective.com/blazed-labs) | [@blazed-labs](https://github.com/blazed-labs/)
 
-**&copy;2020-2023** [Blazed Labs LLC](https://blazedlabs.com/), [Ruff Management Inc](https://ruff-manage.com/). **All Rights Reserved.**
+**&copy;2020-2025** [Blazed Labs LLC](https://blazedlabs.com/), [Ruff Management Inc](https://ruff-manage.com/). **All Rights Reserved.**
