@@ -2,9 +2,10 @@
 ![Blazed Labs "Another dream turned into reality."](https://blazed.sirv.com/blazed-labs/blazed-banner-sm.png)
 
 ## Explore the Blazed Nation
-* [National Forum](https://www.facebook.com/groups/blazedforum)
-* [Blazed Government](government)  ([GitHub](https://github.com/blazed-nation/blz-gov))
-* [Woodrow Financial](https://github.com/blazed-nation/woodrow)
+* [Blazed Space Design Agency](https://blazed.space/)
+* [Blazed Space R&D](https://blazed-space.github.io/)
+* [Blazed Development Group](https://blazed.dev/)
+* [Blazed Publishing](https://blazed.xyz/)
 
 ---
 
